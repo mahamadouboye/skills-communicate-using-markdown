@@ -13,3 +13,6 @@ Initialisation du dépôt Git vide dans /Users/skills/Projects/recipe-repository
 ```
 brrrrrrrreeehzfkz zfbz; jkfbzf lz  mkf efkljh
 ````
+- [x] ne pas mourir
+- [ ] ne pas se marier
+- [ ] ne pas avoir d'enfant
